@@ -3,7 +3,10 @@ import  "./more.css";
 
 const More = () => {
     return (
-        <div>More</div>
+        <section className="more container section" id='more'>
+
+            
+        </section>
     )
 }
 
