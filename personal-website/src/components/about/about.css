@@ -1,0 +1,102 @@
+.about_container {
+    grid-template-columns: 3fr 9fr;
+    column-gap: 1.875rem;
+}
+
+.about_data {
+    padding: 1.875rem;
+    background-color: var(--container-color);
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 1.875rem;
+    align-items: flex-start;
+    position: relative;
+}
+
+.about_data::before{
+    content: '';
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 15px solid var(--container-color);
+    position: absolute;
+    left: -0.93rem;
+    top: 20%;
+}
+
+.about_description {
+    margin-bottom: 1rem;
+    text-align: justify;
+
+}
+
+.about_skills {
+    row-gap: 1.25rem;
+}
+
+.skills_title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills_name {
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+}
+
+.skills_number {
+    line-height: 1.2;
+}
+
+.skills_bar,
+.skills_percentage {
+    height: 7px;
+    border-radius: 0.25rem;
+}
+
+.skills_bar {
+    background-color: aliceblue;
+}
+
+.skills_percentage {
+    display: block;
+}
+
+.development {
+    width: 70%;
+    background-color: rgb(255, 209, 92) ;
+}
+
+.ui_design {
+    width: 60%;
+    background-color: rgb(255, 76, 96) ;
+}
+
+.photography {
+    width: 60%;
+    background-color: rgb(108, 108, 299) ;
+}
+
+.about_boxes {
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1.875rem;
+    margin-top: 4.25rem;
+}
+
+.about_box {
+    display: flex;
+    column-gap: 2.5rem;
+}
+
+.about_icon {
+    font-size: var(--h1-font-size);
+    color: #8a8af3;
+}
+
+.about_title {
+    font-size: 1.875rem;
+}
+
+

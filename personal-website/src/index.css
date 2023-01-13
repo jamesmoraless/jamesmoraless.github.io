@@ -7,7 +7,7 @@
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: hsl(353, 100%, 65%);
   --title-color: hsl(244, 24%, 26%);
-  --text-color: hsl(244 16%, 43%);
+  --text-color: hsl(244, 16%, 43%);
   --body-color: hsl(258, 60%, 98%);
   --container-color: #fff;
 
@@ -124,7 +124,7 @@ img {
 
 .section_title::before {
   content: '';
-  background: url(./assets/cool-background_adobe_express.svg);
+  background: url(./assets/dots-bg.svg);
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;

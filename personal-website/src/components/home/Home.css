@@ -24,18 +24,17 @@
 .home_socials {
     display: flex;
     column-gap: 1.75rem;
-    margin-left: 6rem;
-
+    margin-left: 5.4rem;
 }
 
 .home_social-link {
     color: var(--title-color);
-    font-size: 1.3rem;
+    font-size: 1.75rem;
     transition: .3s;
 }
 
 .home_social-link:hover {
-    color: hsl(43, 100%, 68%);
+    color: hsl(295, 100%, 50%);
 
 }
 
