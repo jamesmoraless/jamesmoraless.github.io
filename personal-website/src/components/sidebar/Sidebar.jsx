@@ -26,7 +26,7 @@ const Sidebar = () => {
 
                         <li className="nav_item">
                             <a href="#resume" className="nav_link">
-                            <i className="icon-star"></i>
+                            <i className="icon-briefcase"></i>
                             </a>
                         </li>
 

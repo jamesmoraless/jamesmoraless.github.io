@@ -92,7 +92,7 @@
 
 .about_icon {
     font-size: var(--h1-font-size);
-    color: #8a8af3;
+    color: hsl(356, 100%, 60%);
 }
 
 .about_title {
