@@ -31,16 +31,17 @@ const Sidebar = () => {
                         </li>
 
                         <li className="nav_item">
-                            <a href="#portfolio" className="nav_link">
-                            <i className="icon-graduation"></i>
-                            </a>
-                        </li>
-
-                        <li className="nav_item">
                             <a href="#contact" className="nav_link">
                             <i className="icon-bubble"></i>
                             </a>
                         </li>
+
+                        <li className="nav_item">
+                            <a href="#more" className="nav_link">
+                            <i className="icon-plus"></i>
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
             </nav>

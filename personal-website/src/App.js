@@ -3,8 +3,9 @@ import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Resume from './components/resume/Resume';
-import Portfolio from './components/portfolio/Portfolio';
 import Contact from './components/contact/Contact';
+import More from './components/more/More';
+
 
 function App() {
   return (
@@ -14,8 +15,8 @@ function App() {
         <Home />
         <About />
         <Resume />
-        <Portfolio />
         <Contact />
+        <More />
       </main>
     </>
   );
