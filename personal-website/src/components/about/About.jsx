@@ -51,11 +51,9 @@ const About = () => {
                                 <span className="skills_percentage photography"></span>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
-
             <AboutBox />
         </section>
     )
