@@ -1,5 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Sidebar from './components/sidebar/Sidebar';
+import Home from './components/home/Home';
+import About from './components/about/About';
+import Resume from './components/resume/Resume';
+import Services from './components/services/Services';
+import Portfolio from './components/portfolio/Portfolio';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
