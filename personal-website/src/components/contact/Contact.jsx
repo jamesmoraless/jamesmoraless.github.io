@@ -12,11 +12,11 @@ const Contact = () => {
                     <p className="contact_details">Don't like forms? Send me an email. :)</p>
                 </div>
 
-                <form action="" className="contact_form">
+                <form action="https://formsubmit.co/jamesmoraless18@gmail.com" method="POST" className="contact_form">
 
                     <div className="contact_form-group">
                         <div className="contact_form-div">
-                            <input type="text" className="contact_form-input" placeholder='Insert your name'/>
+                            <input type="text" className="contact_form-input" placeholder='Insert your name' required/>
                         </div>
 
                         <div className="contact_form-div">
