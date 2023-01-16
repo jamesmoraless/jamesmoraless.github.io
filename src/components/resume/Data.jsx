@@ -6,7 +6,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - present",
         title: "Bachelors of Engineering, Software Engineering",
-        desc: "Description of my software engineering degree",
+        desc: "As a software engineering student, I apply both computer science and engineering principles and practices to the creation, operation, and maintenance of software systems. Software engineers specify, design, implement, and maintain innovative software systems.",
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2022 - present",
         title: "Honours in Business Administrations",
-        desc: "Description of my HBA degree",
+        desc: "Through dynamic classrooms and the case-method of learning, I am developing core leadership and communication skills. Also, I am learning of business fundamentals in accounting, marketing, operations, informational technology, and finance.",
     },
     {
         id: 3,
@@ -22,7 +22,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2016 - 2020",
         title: "École Secondaire Catholique l'Essor",
-        desc: "Description of my school experience",
+        desc: "At l'Essor, I completed a bilingual diploma of the International Baccalaureate program. I recieved a 95% average while starting a new club called Eco Vibrant Essor and playing on the Football and Soccer teams. I earned athlete of the year, captained the soccer team and made the all-start teams for football and soccer in Essex County.",
     },
     {
         id: 4,
@@ -30,7 +30,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2020 - present",
         title: "Ivey Analytics Club",
-        desc: "Description of my time being the VP of the ivey analytics club ",
+        desc: "As junior vice-president of the Ivey Analytics club, I work with section and club executives to plan and coordinate events such as Excel, machine learning, and python workshops. I express my passion of data analytics through my dedication  and club initiatives.",
     },
     {
         id: 5,
@@ -38,7 +38,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - 2021",
         title: "Visor Guys",
-        desc: "Description of how I worked in a team and led + how I coded a website",
+        desc: "At Visor Guys, I quickly moved to a leaderhsip-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I offerd my knowledge in Excel and coding by automating the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
     },
     {
         id: 6,
@@ -46,7 +46,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - 2020",
         title: "Eco Vibrant Essor",
-        desc: "Description of how I brought this club to the school and my teamwork and leadership.",
+        desc: "As one of the creators of this club. I was tasked with delegating tasks such as creating promotional videos, which were broadcasted through my highschool and coordinating the conceptualization of landscaping projects around the school which would bring students closer to nature.",
     },
 ];
 

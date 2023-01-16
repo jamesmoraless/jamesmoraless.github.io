@@ -13,9 +13,11 @@ const About = () => {
 
                 <div className="about_data grid">
                     <div className="about_info">
-                        <p className="about_description">
-                        I am James Morales, a software engineering student from London, Canada. 
-                        I have experience in x, x, x, and x, also I'm good at business funds.
+                        <p className="about_description"> 
+                        I am a third-year Software Engineering and Ivey Business student at the University of Western Ontario. 
+                        I am interested and knowledgeable in computer science fundamentals such as object-oriented design, algorithm design and data structures. 
+                        I am comfortable with finance, accounting and management fundamentals.
+                        I strive to become a well-rounded software engineer and hope that you enjoy my website!
                         </p>
                         <a href="" className="btn">Download My CV</a>
                     </div>
