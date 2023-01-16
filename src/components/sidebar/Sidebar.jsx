@@ -1,12 +1,12 @@
 import React from 'react';   
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg"//have to change the logo.svg to my own
+import Logo from "../../assets/j-low-resolution-logo-color-on-transparent-background.png"//have to change the logo.svg to my own
 
 const Sidebar = () => {
     return (
         <aside className='aside'>
             <a href="#home" className="nav_logo">
-                <img src={Logo} alt="Logo"/>
+                <img src={Logo} className="my_Logo" alt="Logo"/>
             </a>
 
             <nav className="nav">
