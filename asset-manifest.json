@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad2de74e.css",
+    "main.css": "/static/css/main.607645fd.css",
     "main.js": "/static/js/main.d1bbf680.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/Morales_James_Resume - Copy.pdf": "/static/media/Morales_James_Resume - Copy.08e143fb12fe336c9d4e.pdf",
@@ -9,12 +9,12 @@
     "static/media/j-low-resolution-logo-color-on-transparent-background.png": "/static/media/j-low-resolution-logo-color-on-transparent-background.5fa9aee65a249d4b90e3.png",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/index.html",
-    "main.ad2de74e.css.map": "/static/css/main.ad2de74e.css.map",
+    "main.607645fd.css.map": "/static/css/main.607645fd.css.map",
     "main.d1bbf680.js.map": "/static/js/main.d1bbf680.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad2de74e.css",
+    "static/css/main.607645fd.css",
     "static/js/main.d1bbf680.js"
   ]
 }
