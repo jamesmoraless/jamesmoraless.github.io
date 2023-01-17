@@ -1,10 +1,10 @@
 .main {
   margin-left: 110px;
   background-color: #C9CAFF;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23d3d3fe' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23dddcfd' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23e7e4fc' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23f1edfb' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23FBF6FA' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
   background-attachment: fixed;
   background-size: cover;
-}
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask4973%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient4974)'%3e%3c/rect%3e%3cpath d='M 0%2c53 C 72%2c85.4 216%2c221.2 360%2c215 C 504%2c208.8 576%2c35.6 720%2c22 C 864%2c8.4 936%2c132.2 1080%2c147 C 1224%2c161.8 1368%2c106.2 1440%2c96L1440 560L0 560z' fill='rgba(255%2c 255%2c 255%2c 0.8)'%3e%3c/path%3e%3cpath d='M 0%2c311 C 96%2c357.6 288%2c527.8 480%2c544 C 672%2c560.2 768%2c405 960%2c392 C 1152%2c379 1344%2c461.6 1440%2c479L1440 560L0 560z' fill='rgba(255%2c 255%2c 255%2c 0.32)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask4973'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient4974'%3e%3cstop stop-color='rgba(255%2c 255%2c 255%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(255%2c 0%2c 0%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  }
 
 .App {
   text-align: center;
