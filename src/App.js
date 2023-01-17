@@ -4,7 +4,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
-import More from './components/more/More';
+import Music from './components/music/Music';
 
 
 function App() {
@@ -15,8 +15,8 @@ function App() {
         <Home />
         <About />
         <Resume />
+        <Music />
         <Contact />
-        <More />
       </main>
     </>
   );
