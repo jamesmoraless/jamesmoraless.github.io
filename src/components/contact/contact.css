@@ -16,6 +16,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 1.5rem;
+    
 }
 
 .contact_form-div {
@@ -38,7 +39,6 @@
     border-radius: 1.875rem;
     padding: 0.625rem 1.875rem;
     z-index: 1;
-
 }
 
 .contact_form-area {

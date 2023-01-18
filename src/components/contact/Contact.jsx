@@ -16,11 +16,11 @@ const Contact = () => {
 
                     <div className="contact_form-group">
                         <div className="contact_form-div">
-                            <input type="text" className="contact_form-input" name="name" class="form-control" placeholder='Insert your name' required/>
+                            <input type="text" className="contact_form-input" name="name" placeholder='Insert your name' required/>
                         </div>
 
                         <div className="contact_form-div">
-                            <input type="email" className="contact_form-input" class="form-control" name="email" placeholder='Insert your email'required/>
+                            <input type="email" className="contact_form-input" name="email" placeholder='Insert your email' required/>
                         </div>
                     </div>
                     <div className="contact_form-div">
@@ -30,7 +30,7 @@ const Contact = () => {
                             <textarea name="message" id="" cols="30" rows="10" class="form-control" className='contact_form-input' placeholder='Write your message here' required></textarea>
                         </div>
 
-                        <button className='btn'>Send Message</button>
+                        <button type="submit" className='btn'>Send Message</button>
                 </form>
             </div>
         </section>
