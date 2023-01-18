@@ -5,6 +5,7 @@ import About from './components/about/About';
 import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
 import Music from './components/music/Music';
+import Projects from './components/projects/Projects';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Home />
         <About />
         <Resume />
+        <Projects />
         <Music />
         <Contact />
       </main>

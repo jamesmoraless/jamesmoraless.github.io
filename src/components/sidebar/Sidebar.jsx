@@ -29,11 +29,15 @@ const Sidebar = () => {
                             <i className="icon-briefcase"></i>
                             </a>
                         </li>
-
                         
+                        <li className="nav_item">
+                            <a href="#projects" className="nav_link">
+                            <i className="icon-grid"></i>
+                            </a>
+                        </li>
 
                         <li className="nav_item">
-                            <a href="#more" className="nav_link">
+                            <a href="#music" className="nav_link">
                             <i className="icon-music-tone-alt"></i>
                             </a>
                         </li>
