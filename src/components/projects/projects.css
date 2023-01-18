@@ -1,0 +1,23 @@
+.project_grid { 
+    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    column-gap: 10rem;
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+    height: 10rem;
+    width: 100%;
+}
+
+.game_dev_projects {
+    height: 215px;
+    width: 250px;
+    object-fit: fill;
+    transition: transform .25s;
+    box-shadow: var(--shadow);
+    border-radius: 20px;
+}
+
+.game_dev_projects:hover {
+    transform: scale(1.2);
+    opacity: 20%;
+}
