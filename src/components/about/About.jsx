@@ -17,9 +17,10 @@ const About = () => {
                 <div className="about_data grid">
                     <div className="about_info">
                         <p className="about_description"> 
-                        I am a third-year Software Engineering and Ivey Business student at the University of Western Ontario. 
-                        I am interested and knowledgeable in computer science fundamentals such as object-oriented design, algorithm design and data structures. 
-                        I am comfortable with finance, accounting and management fundamentals.
+                        Hi all! I am a third-year Software Engineering and Ivey Business student at the University of Western Ontario. 
+                        I am passionate about software development in all fields and have a fun time learning about different technologies.
+                        I had a great time building this website with <b>React, JavaScript, HTML, and CSS. </b>  
+                         I am also comfortable with finance, accounting and management fundamentals because of my business background at Ivey.
                         I strive to become a well-rounded software engineer and hope that you enjoy my website!
                         </p>
                         <a href={CV} download="James_Morales_CV" className="btn">Download My CV</a>

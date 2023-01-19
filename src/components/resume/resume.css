@@ -14,7 +14,7 @@
 .timeline_item {
     position: relative;
     padding-left: 3.125rem;
-    padding-bottom: 3.125rem;
+    padding-bottom: 2.125rem;
 }
 
 .timeline_item:last-child {

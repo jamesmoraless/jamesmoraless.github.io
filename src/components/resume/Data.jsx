@@ -6,7 +6,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - present",
         title: "Bachelors of Engineering, Software Engineering",
-        desc: "As a software engineering student, I apply both computer science and engineering principles and practices to the creation, operation, and maintenance of software systems. Software engineers specify, design, implement, and maintain innovative software systems.",
+        desc: "Classes that I have taken: Software Design, OOP, SQL, Web Apps, Data Structures Calculus Math, and Linear Algebra. Classes such as these have enriched my knowledge in many technologies and nurtured a passion for software development. My GPA is 3.7."
     },
     {
         id: 2,
@@ -38,7 +38,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - 2021",
         title: "Visor Guys",
-        desc: "At Visor Guys, I quickly moved to a leaderhsip-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I offerd my knowledge in Excel and coding by automating the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
+        desc: "At Visor Guys, I quickly moved to a leaderhsip-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I automated the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
     },
     {
         id: 6,
@@ -46,7 +46,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - 2020",
         title: "Eco Vibrant Essor",
-        desc: "As one of the creators of this club. I was tasked with delegating tasks such as creating promotional videos, which were broadcasted through my highschool and coordinating the conceptualization of landscaping projects around the school which would bring students closer to nature.",
+        desc: "As one of the creators of this club. I was tasked with delegating tasks such as creating promotional videos, which were broadcasted through my highschool and coordinating the conceptualization of landscaping projects around the school which would bring students closer to nature and ecologically sustainable spaces.",
     },
 ];
 
