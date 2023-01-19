@@ -14,37 +14,37 @@ const Sidebar = () => {
                     <ul className="nav_list">
                         <li className="nav_item">
                             <a href="#home" className="nav_link">
-                                <i className="icon-home"></i>
+                                <i className="icon-home"><span className='description'>Home</span></i>
                             </a>
                         </li>
 
                         <li className="nav_item">
                             <a href="#about" className="nav_link">
-                            <i className="icon-user-following"></i>
+                            <i className="icon-user-following"><span className='description'>About</span></i>
                             </a>
                         </li>
 
                         <li className="nav_item">
                             <a href="#resume" className="nav_link">
-                            <i className="icon-briefcase"></i>
+                            <i className="icon-briefcase"><span className="description">Experience</span></i>
                             </a>
                         </li>
                         
                         <li className="nav_item">
                             <a href="#projects" className="nav_link">
-                            <i className="icon-grid"></i>
+                            <i className="icon-grid"><span className="description">Projects</span></i>
                             </a>
                         </li>
 
                         <li className="nav_item">
                             <a href="#music" className="nav_link">
-                            <i className="icon-music-tone-alt"></i>
+                            <i className="icon-music-tone-alt"><span className="description">Music</span></i>
                             </a>
                         </li>
 
                         <li className="nav_item">
                             <a href="#contact" className="nav_link">
-                            <i className="icon-bubble"></i>
+                            <i className="icon-bubble"><span className="description">Contact</span></i>
                             </a>
                         </li>
 

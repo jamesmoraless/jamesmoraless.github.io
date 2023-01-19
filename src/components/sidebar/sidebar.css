@@ -29,6 +29,13 @@
 
 .nav_link:hover {
     color: hsl(356, 100%, 60%);  
+    opacity: 100%;
+    transition: all .2s ease-in;
+}
+
+.nav_link:hover span{
+    visibility: visible;
+    opacity: 1; 
 }
 
 .copyright {
@@ -41,4 +48,13 @@
 .my_Logo {
     scale: 3;
 }
+
+.description {
+    visibility: hidden;
+    font-weight: var(--font-semibold);
+    font-family: var(--body-font);
+    margin-left: .75rem;
+}
+
+
 

@@ -3,6 +3,13 @@
     column-gap: 1.875rem;
 }
 
+.about_image {
+    border-radius: 125px;
+    scale: 0.9;
+    width: 25%;
+    box-shadow: var(--shadow);
+}
+
 .about_data {
     padding: 1.875rem;
     background-color: var(--container-color);
@@ -18,16 +25,16 @@
     content: '';
     width: 0;
     height: 0;
-    border-top: 10px solid transparent;
-    border-bottom: 10px solid transparent;
-    border-right: 15px solid var(--container-color);
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-right: 25px solid var(--container-color);
     position: absolute;
     left: -0.93rem;
     top: 20%;
 }
 
 .about_description {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     text-align: justify;
 
 }
@@ -82,12 +89,13 @@
 .about_boxes {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 1.875rem;
-    margin-top: 4.25rem;
+    margin-top: 1.1rem;
 }
 
 .about_box {
     display: flex;
     column-gap: 2.5rem;
+    justify-content: center;
 }
 
 .about_icon {

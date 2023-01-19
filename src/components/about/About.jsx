@@ -1,6 +1,6 @@
 import React from 'react';   
 import "./about.css";
-import Image from "../../assets/avatar-2.svg";//Must change avatar-2
+import Image from "../../assets/me_playing_fball.png";//Must change avatar-2 C:\Users\james\jamesmoraless.github.io\src\assets\me_playing_fball.png
 import AboutBox from "./AboutBox";
 import CV from "../../assets/Morales_James_Resume - Copy.pdf"
 
@@ -10,7 +10,9 @@ const About = () => {
             <h2 className="section_title">About Me</h2>
 
             <div className="about_containter grid">
-                <img src={Image} alt="" className="about_img" />
+                <a href='https://windsorstar.com/sports/football/aigles-take-third-straight-football-title-while-knights-make-it-back-to-back-wins' target='_blank' className='about_image'>
+                <img src={Image} alt=""/>
+                </a>
 
                 <div className="about_data grid">
                     <div className="about_info">
