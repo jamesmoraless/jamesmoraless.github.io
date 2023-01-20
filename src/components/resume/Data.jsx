@@ -38,7 +38,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - 2021",
         title: "Visor Guys",
-        desc: "At Visor Guys, I quickly moved to a leaderhsip-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I automated the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
+        desc: "At Visor Guys, I quickly moved to a leadership-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I automated the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
     },
     {
         id: 6,

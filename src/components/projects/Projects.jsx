@@ -15,85 +15,86 @@ const Projects = () => {
             <h2 className="dev_type">Game Dev</h2>
             <div className="project_grid">
                 
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={GameOne} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/RestorationsOfEldya" target="_blank">
                     <h3 className='description_title'>Restoration of Eldya</h3>
                     <h4 className='skills'>
-                        Description
+                        In a team of 4 software engineering students, we built a role-playing-game on the Unity engine with C#. This game includes 3 main characters with 2 levels and a variety of enemies. After 3 software development sprints, we recieved a 96%. <br></br><i>Click Me</i>
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
+             
 
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={GameTwo} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/Roll-A-Ball" target="_blank">
                     <h3 className='description_title'>Roll-A-Ball</h3>
                     <h4 className='skills'>
-                        Description
+                        I built this roll-a-ball game using Unity game engine and C#. A simple yet fun 3D project where you control a ball down a path of obstacles with floating collectables. After making it to the end, you are prompted with a end of game message and a final score. <br></br><i>Click Me</i>
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
             </div>
             
             <h2 className="dev_type">Web Dev</h2>
             <div className="project_grid">
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={WebOne} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/jamesmoraless.github.io" target="_blank">
                     <h3 className='description_title'>My Personal Website</h3>
                     <h4 className='skills'>
                         Description
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
 
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={WebThree} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/iFashion-Admin-Web-App" target="_blank"> 
                     <h3 className='description_title'>iFashion Store Admin App</h3>
                     <h4 className='skills'>
                         Description
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
             </div>
 
             <h2 className="dev_type">Data Science</h2>
 
             <div className="project_grid">
                 
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={DataOne} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/Python-Stock-Price-Predictor" target="_blank">
                     <h3 className='description_title'>Microsoft Stock Price Predictor</h3>
                     <h4 className='skills'>
                         Description
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
 
-                <a href="" target="_blank" className="link">
                 <div className='single_project'>
                 <img src={DataTwo} alt="" className="game_dev_projects" />
                 <div className="overlay">
+                    <a href="https://github.com/jamesmoraless/Premier-League-Model" target="_blank">
                     <h3 className='description_title'>Premier League Game Result Predictor</h3>
                     <h4 className='skills'>
                         Description
                     </h4>
+                    </a>
                 </div>
                 </div>
-                </a>
             </div>
 
         </section>
