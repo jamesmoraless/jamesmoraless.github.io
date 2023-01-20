@@ -1,0 +1,31 @@
+.image_grid {
+    display: flex;
+    justify-content: center;
+    column-gap: 3rem;
+    margin-bottom: 4rem;
+}
+
+.image_grid_two {
+    display: flex;
+    justify-content: center;
+    column-gap: 3rem;
+}
+
+
+.skill_img {
+    transition: all .3s ease;
+    scale: 1.2;
+}
+
+.skill_img:hover {
+    scale: 1.5;
+    transition: .3s;
+}
+
+
+.tech_title {
+    margin-left: 3.5rem;
+    margin-bottom: 3rem;
+    margin-top: 4rem;
+}
+

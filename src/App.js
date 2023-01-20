@@ -6,6 +6,7 @@ import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
 import Music from './components/music/Music';
 import Projects from './components/projects/Projects';
+import Skills from './components/skills/Skills';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <main className="main">
         <Home />
         <About />
+        <Skills />
         <Resume />
         <Projects />
         <Music />

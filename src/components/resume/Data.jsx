@@ -6,7 +6,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - present",
         title: "Bachelors of Engineering, Software Engineering",
-        desc: "Classes that I have taken: Software Design, OOP, SQL, Web Apps, Data Structures Calculus Math, and Linear Algebra. Classes such as these have enriched my knowledge in many technologies and nurtured a passion for software development. My GPA is 3.7."
+        desc: "Classes that I have taken: Software Design, OOP, SQL, Web Apps, Data Structures, Calculus Math, and Linear Algebra. Classes such as these have enriched my knowledge in many technologies and nurtured a passion for software development. My GPA is 3.7."
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2022 - present",
         title: "Honours in Business Administrations",
-        desc: "Through dynamic classrooms and the case-method of learning, I am developing core leadership and communication skills. Also, I am learning of business fundamentals in accounting, marketing, operations, informational technology, and finance.",
+        desc: "Through dynamic classrooms and the case-method of learning, I am developing core leadership and communication skills. Also, I am learning business fundamentals in accounting, marketing, operations, informational technology, and finance.",
     },
     {
         id: 3,
