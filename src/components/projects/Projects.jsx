@@ -49,7 +49,7 @@ const Projects = () => {
                     <a href="https://github.com/jamesmoraless/jamesmoraless.github.io" target="_blank">
                     <h3 className='description_title'>My Personal Website</h3>
                     <h4 className='skills'>
-                        Description
+                        I built my personal website with a React framework and Javascript, HTML5 and CSS languages. I enjoyed learning and playing around with different formats, tools and animations. <br></br><br></br><br></br><i>Click Me</i>
                     </h4>
                     </a>
                 </div>
@@ -61,7 +61,7 @@ const Projects = () => {
                     <a href="https://github.com/jamesmoraless/iFashion-Admin-Web-App" target="_blank"> 
                     <h3 className='description_title'>iFashion Store Admin App</h3>
                     <h4 className='skills'>
-                        Description
+                        This iFashion store admin app was created using JavaFX, Java, and SQL. As the made-up admin of a fashion store, you are able to update inventory by adding categories, products, removing and updating all in one application. <br></br><br></br> <i>Click Me</i>
                     </h4>
                     </a>
                 </div>
@@ -78,7 +78,7 @@ const Projects = () => {
                     <a href="https://github.com/jamesmoraless/Python-Stock-Price-Predictor" target="_blank">
                     <h3 className='description_title'>Microsoft Stock Price Predictor</h3>
                     <h4 className='skills'>
-                        Description
+                        This program uses an artificial recurrent neural networlk called Long Short Term Memory (LSTM) to predit a closing stock price of a corporation (Microsoft). I used Python, Pandas, Tensorflow and Google Colab. <br></br><br></br><i>Click Me</i>
                     </h4>
                     </a>
                 </div>
@@ -90,7 +90,7 @@ const Projects = () => {
                     <a href="https://github.com/jamesmoraless/Premier-League-Model" target="_blank">
                     <h3 className='description_title'>Premier League Game Result Predictor</h3>
                     <h4 className='skills'>
-                        Description
+                        I built this using predictors to improve the accuracy of the model by splitting the matches data frame by team in order to compute rolling averages for team performance. I used Python, Pandas, Scikit-learn and Jupyter.<br></br><i>Click Me</i>
                     </h4>
                     </a>
                 </div>
