@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2133bb5e.css",
-    "main.js": "/static/js/main.a01aacb6.js",
+    "main.css": "/static/css/main.89176c92.css",
+    "main.js": "/static/js/main.340de6fc.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/headshot_1.png": "/static/media/headshot_1.db79874962c7ff5eb963.png",
     "static/media/my_website.PNG": "/static/media/my_website.3cf892d5712c627bef14.PNG",
     "static/media/me_playing_fball.png": "/static/media/me_playing_fball.5f0bae68f31953aae621.png",
     "static/media/Morales_James_Resume - Copy.pdf": "/static/media/Morales_James_Resume - Copy.08e143fb12fe336c9d4e.pdf",
@@ -11,16 +12,15 @@
     "static/media/new_product_catalogued.PNG": "/static/media/new_product_catalogued.58a5ffd17031ec6f41f6.PNG",
     "static/media/stock_predictor.PNG": "/static/media/stock_predictor.dbb27f127aeec0f598ba.PNG",
     "static/media/PL_predictor_summary.PNG": "/static/media/PL_predictor_summary.73884cf548572dafffdb.PNG",
-    "static/media/avatar-1.svg": "/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
     "static/media/j-low-resolution-logo-color-on-transparent-background.png": "/static/media/j-low-resolution-logo-color-on-transparent-background.5fa9aee65a249d4b90e3.png",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/index.html",
-    "main.2133bb5e.css.map": "/static/css/main.2133bb5e.css.map",
-    "main.a01aacb6.js.map": "/static/js/main.a01aacb6.js.map",
+    "main.89176c92.css.map": "/static/css/main.89176c92.css.map",
+    "main.340de6fc.js.map": "/static/js/main.340de6fc.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2133bb5e.css",
-    "static/js/main.a01aacb6.js"
+    "static/css/main.89176c92.css",
+    "static/js/main.340de6fc.js"
   ]
 }
