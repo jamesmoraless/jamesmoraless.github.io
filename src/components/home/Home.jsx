@@ -1,6 +1,6 @@
 import React from 'react';   
 import "./home.css";
-import Me from "../../assets/avatar-1.svg"
+import Me from "../../assets/headshot_1.png"
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 
