@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.89176c92.css",
-    "main.js": "/static/js/main.340de6fc.js",
+    "main.js": "/static/js/main.880ed016.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/headshot_1.png": "/static/media/headshot_1.db79874962c7ff5eb963.png",
-    "static/media/my_website.PNG": "/static/media/my_website.3cf892d5712c627bef14.PNG",
+    "static/media/my_website.PNG": "/static/media/my_website.896b73368d7afd7d7f6a.PNG",
     "static/media/me_playing_fball.png": "/static/media/me_playing_fball.5f0bae68f31953aae621.png",
     "static/media/Morales_James_Resume - Copy.pdf": "/static/media/Morales_James_Resume - Copy.08e143fb12fe336c9d4e.pdf",
     "static/media/restoration_of_Eldya_pt2.PNG": "/static/media/restoration_of_Eldya_pt2.66f2ac8dcbc9033a9672.PNG",
@@ -16,11 +16,11 @@
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/index.html",
     "main.89176c92.css.map": "/static/css/main.89176c92.css.map",
-    "main.340de6fc.js.map": "/static/js/main.340de6fc.js.map",
+    "main.880ed016.js.map": "/static/js/main.880ed016.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89176c92.css",
-    "static/js/main.340de6fc.js"
+    "static/js/main.880ed016.js"
   ]
 }
