@@ -37,6 +37,10 @@
     .image_grid_two {
         column-gap: 1rem;
     }
+
+    .tech_title {
+        margin-left: 0rem;
+    }
   }
 
 

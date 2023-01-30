@@ -26,7 +26,7 @@
 .home_socials {
     display: flex;
     column-gap: 1.75rem;
-    margin-left: 11.5rem;
+    justify-content: center;
 }
 
 .home_social-link {
@@ -96,8 +96,7 @@
 
 @media screen and (max-width: 1024px) {
     .home_social-link {
-        font-size: 1.125rem;
-        margin-left: 0.5rem;
+        font-size: 1.5rem;
     }
   }
 
