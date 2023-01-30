@@ -30,9 +30,12 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .skills_container {
-        grid-template-columns: 350px;
-        justify-content: center;
+    .image_grid {
+        column-gap: 0.5rem;
+    }
+
+    .image_grid_two {
+        column-gap: 1rem;
     }
   }
 

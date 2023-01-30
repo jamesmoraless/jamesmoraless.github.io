@@ -31,13 +31,27 @@ const Skills = () => {
             </div>
 
             <div className="image_grid">
+                <div className="single skill">
                 <img src={HTMLImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={CSSImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={JavaScriptImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={JavaImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={CImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={PythonImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={MatLabnImg} alt="" className="skill_img" />
+                </div>
             </div>
 
 
@@ -45,13 +59,27 @@ const Skills = () => {
                 <h2>Other</h2>
             </div>
             <div className="image_grid_two">
+                <div className="single skill">
                 <img src={PostGreImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={MySQLImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={ExpressImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={ReactImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={UnityImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={NodeImg} alt="" className="skill_img" />
+                </div>
+                <div className="single skill">
                 <img src={GitImg} alt="" className="skill_img" />
+                </div>
             </div>
 
             
