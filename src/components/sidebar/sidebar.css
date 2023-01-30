@@ -56,5 +56,27 @@
     margin-left: .75rem;
 }
 
+.nav_toggle {
+    position: fixed;
+    top: 1.25rem;
+    left: 1.875rem;
+    cursor: pointer;
+    height: 40px;
+    width: 45px;
+    background-color: var(--body-color);
+    border: 1px solid #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    box-shadow: var(--shadow);
+}
+
+@media screen and (max-width: 1024px) {
+    .aside {
+      left: -110px;
+    }
+  }
+
 
 

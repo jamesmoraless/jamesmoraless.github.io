@@ -26,7 +26,7 @@
 .home_socials {
     display: flex;
     column-gap: 1.75rem;
-    margin-left: 10.25rem;
+    margin-left: 11.5rem;
 }
 
 .home_social-link {
@@ -93,4 +93,12 @@
     transform: translateX(-50%);
     animation: ani-mouse 2s linear infinite;
 }
+
+@media screen and (max-width: 1024px) {
+    .home_social-link {
+        font-size: 1.125rem;
+        margin-left: 0.5rem;
+    }
+  }
+
 

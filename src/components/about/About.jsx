@@ -31,7 +31,7 @@ const About = () => {
                         <div className="skills_data">
                             <div className="skills_title">
                                 <h3 className="skills_name">Data Science</h3>
-                                <span className="skills_number">70%</span>
+                                <span className="skills_number">50%</span>
                             </div>
                             <div className="skills_bar">
                                 <span className="skills_percentage development"></span>
@@ -41,7 +41,7 @@ const About = () => {
                         <div className="skills_data">
                             <div className="skills_title">
                                 <h3 className="skills_name">Web Dev</h3>
-                                <span className="skills_number">50%</span>
+                                <span className="skills_number">70%</span>
                             </div>
                             <div className="skills_bar">
                                 <span className="skills_percentage ui_design"></span>

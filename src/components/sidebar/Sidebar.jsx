@@ -4,6 +4,7 @@ import Logo from "../../assets/j-low-resolution-logo-color-on-transparent-backgr
 
 const Sidebar = () => {
     return (
+        <>
         <aside className='aside'>
             <a href="#home" className="nav_logo">
                 <img src={Logo} className="my_Logo" alt="Logo"/>
@@ -62,6 +63,11 @@ const Sidebar = () => {
                 <span className="copyright">&copy; 2022 - 2023.</span>
             </div>
         </aside>
+
+        <div className="nav_toggle">
+            <i className="icon-menu"></i>
+        </div>
+        </>
     )
 }
 
