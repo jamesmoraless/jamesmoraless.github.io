@@ -51,6 +51,6 @@
 
 @media screen and (max-width: 1024px) {
     .contact_form-group {
-        grid-template-columns: 350px;
+        grid-template-columns: 100%;
     }
   }
