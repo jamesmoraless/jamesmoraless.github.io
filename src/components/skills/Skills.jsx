@@ -21,7 +21,9 @@ import GitImg from "../../assets/icons8-git-96.png";
 
 const Skills = () => {
     return (
+        
         <section className="skill container section" id='skills'>
+            <div className="skills_container">
             <h2 className="section_title">My Tech Tools</h2>
             
             <div className="tech_title">
@@ -53,7 +55,7 @@ const Skills = () => {
             </div>
 
             
-
+            </div>
         </section>
     )
 }

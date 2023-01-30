@@ -29,3 +29,12 @@
     margin-top: 4rem;
 }
 
+@media screen and (max-width: 1024px) {
+    .skills_container {
+        grid-template-columns: repeat(4,330px);
+        justify-content: center;
+        row-gap: 1.875reml;
+    }
+  }
+
+

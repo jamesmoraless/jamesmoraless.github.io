@@ -47,11 +47,22 @@
 .description_title{
     color: aliceblue;
     margin-left: 20px;
-    margin-top: 35px;
+    margin-top: 25px;
 }
 .skills {
     color: aliceblue;
-    margin-left: 20px;
-    margin-top: 1.25rem;
+    margin-top: 0.5rem;
+    padding: 15px;
 }
 
+@media screen and (max-width: 780px) {
+    .project_grid {
+        grid-template-columns: repeat(2, 5fr);
+        grid-template-rows: repeat(2, 5fr);
+        justify-content: center;
+        display: flex;
+    }
+    .skills {
+        font-size: small;
+    }
+  }
