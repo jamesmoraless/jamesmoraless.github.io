@@ -10,7 +10,8 @@
 }
 
 .dev_type {
-    margin-left: 6rem;
+    justify-content: left;
+    margin-left: 100px;
 }
 
 .game_dev_projects {
@@ -52,17 +53,18 @@
 .skills {
     color: aliceblue;
     margin-top: 0.5rem;
-    padding: 15px;
+    padding: 12px;
 }
 
 @media screen and (max-width: 780px) {
     .project_grid {
-        grid-template-columns: repeat(2, 5fr);
-        grid-template-rows: repeat(2, 5fr);
-        justify-content: center;
-        display: flex;
+        column-gap: 1.5rem;
     }
     .skills {
-        font-size: small;
+        font-size: smaller;
+    }
+    .dev_type {
+        justify-content: left;
+        margin-left: 0px;
     }
   }

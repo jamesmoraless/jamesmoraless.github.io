@@ -52,4 +52,10 @@
     margin: 0.5rem 0;
 }
 
+@media screen and (max-width: 780px) {
+    .resume_container {
+        grid-template-columns: 350px;
+        justify-content: center;
+    }
+  }
 
