@@ -11,6 +11,7 @@
     flex-direction: column;
     justify-content: space-between;
     z-index: 10;
+    transition: .3s;
 
 }
 
@@ -65,11 +66,12 @@
     width: 45px;
     background-color: var(--body-color);
     border: 1px solid #ffff;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     z-index: 1;
     box-shadow: var(--shadow);
+    transition: .3s;
 }
 
 @media screen and (max-width: 1024px) {
@@ -77,7 +79,15 @@
       left: -110px;
     }
     .nav_toggle {
-        
+        display: flex;
+    }
+
+    .nav_toggle-open {
+        left: 140px;
+    }
+
+    .show-menu {
+        left: 0;
     }
   }
 
