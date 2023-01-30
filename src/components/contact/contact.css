@@ -50,7 +50,15 @@
 }
 
 @media screen and (max-width: 1024px) {
+    .contact_container {
+        grid-template-columns: 300px;
+        row-gap: 1.875rem;
+        justify-content: center;
+    }
     .contact_form-group {
         grid-template-columns: 100%;
+    }
+    .contact_info {
+        text-align: center;
     }
   }
