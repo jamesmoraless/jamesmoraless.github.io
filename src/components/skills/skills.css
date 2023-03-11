@@ -13,13 +13,13 @@
 
 
 .skill_img {
-    transition: all .3s ease;
+    transition: all .2s ease;
     scale: 1.2;
 }
 
 .skill_img:hover {
     scale: 1.5;
-    transition: .3s;
+    transition: .2s;
 }
 
 

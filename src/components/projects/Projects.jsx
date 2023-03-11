@@ -11,7 +11,7 @@ import DataTwo from "../../assets/PL_predictor_summary.PNG"
 const Projects = () => {
     return (
         <section className="projects container section" id='projects'>
-            <h2 className="section_title">My Projects</h2>
+            <h2 className="section_title">Star Projects</h2>
             <h2 className="dev_type">Game Dev</h2>
             <div className="project_grid">
                 
