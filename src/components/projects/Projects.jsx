@@ -2,8 +2,8 @@ import React from 'react';
 import  "./projects.css";
 import GameOne from "../../assets/restoration_of_Eldya_pt2.PNG" 
 import GameTwo from "../../assets/roll_a_ball.png"
-import WebOne from "../../assets/my_website.PNG"
-import WebThree from "../../assets/new_product_catalogued.PNG"
+import WebOne from "../../assets/HeroHub.png"
+import WebThree from "../../assets/URLShortener.png" 
 import DataOne from "../../assets/stock_predictor.PNG"
 import DataTwo from "../../assets/PL_predictor_summary.PNG"
 
@@ -46,10 +46,12 @@ const Projects = () => {
                 <div className='single_project'>
                 <img src={WebOne} alt="" className="game_dev_projects" />
                 <div className="overlay">
-                    <a href="https://github.com/jamesmoraless/jamesmoraless.github.io" target="_blank">
-                    <h3 className='description_title'>My Personal Website</h3>
+                    <a href="https://github.com/jamesmoraless/Hero-Hub-PERN-Stack" target="_blank">
+                    <h3 className='description_title'>Hero Hub</h3>
                     <h4 className='skills'>
-                        I built my personal website with a React framework and Javascript, HTML5 and CSS languages. I enjoyed learning and playing around with different formats, tools and animations. <br></br><br></br><br></br><i>Click Me</i>
+                    Hero Hub, built with the PERN stack, combines PostgreSQL, Express.js, React.js, and Node.js for a responsive web experience. It's efficiently deployed on AWS EC2, showcasing both robust functionality and cloud-based hosting skills. <br></br><br></br><i>Click Me</i>
+
+                        
                     </h4>
                     </a>
                 </div>
@@ -58,10 +60,10 @@ const Projects = () => {
                 <div className='single_project'>
                 <img src={WebThree} alt="" className="game_dev_projects" />
                 <div className="overlay">
-                    <a href="https://github.com/jamesmoraless/iFashion-Admin-Web-App" target="_blank"> 
-                    <h3 className='description_title'>iFashion Store Admin App</h3>
+                    <a href="https://github.com/jamesmoraless/URL-Shortener" target="_blank"> 
+                    <h3 className='description_title'>Full Stack URL Shortener</h3>
                     <h4 className='skills'>
-                        This iFashion store admin app was created using JavaFX, Java, and SQL. As the made-up admin of a fashion store, you are able to update inventory by adding categories, products, removing and updating all in one application. <br></br><br></br> <i>Click Me</i>
+                    The "URL Shortener" is a full-stack application combining a Node.js, Express, and PostgreSQL back-end with a React front-end. It enables URL shortening, user authentication, and provides usage statistics, offering a seamless user experience for managing and tracking shortened URLs. <br></br> <i>Click Me</i>
                     </h4>
                     </a>
                 </div>
