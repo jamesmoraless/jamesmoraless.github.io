@@ -6,7 +6,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2020 - present",
         title: "Bachelors of Engineering, Software Engineering",
-        desc: "Classes that I have taken: Software Design, OOP, SQL, Web Apps, Data Structures, Calculus Math, and Linear Algebra. Classes such as these have enriched my knowledge in many technologies and nurtured a passion for software development. My GPA is 3.9."
+        desc: "Throughout my degree, I have developed a strong foundation in software architecture, full-stack development, and scalable systems. My coursework has covered a diverse range of topics, including: Software Design & Object-Oriented Programming (OOP), Web Development & Cloud Computing, Databases & SQL, Networking & Cybersecurity, Testing & Automation, Data Structures & Algorithms, Mathematics for Computing. These courses have deepened my expertise in building high-performance applications, securing systems, and automating workflows, fueling my passion for software development and engineering excellence."
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2022 - present",
         title: "Honours in Business Administrations",
-        desc: "Through dynamic classrooms and the case-method of learning, I am developing core leadership and communication skills. Also, I am learning business fundamentals in accounting, marketing, operations, informational technology, and finance.",
+        desc: "Through Ivey’s case-based learning methodology, I developed critical thinking, leadership, and strategic decision-making skills by analyzing real-world business challenges. My coursework provided a strong foundation in business fundamentals across multiple disciplines, including: Corporate Financial Accounting, Finance & Investment Analysis, Marketing & Strategy, Leadership & Communication, Technology & Information Systems, Managing High Growth Companies. This program honed my ability to solve complex business problems, communicate effectively, and lead cross-functional teams, complementing my software engineering expertise.",
     },
     {
         id: 3,
@@ -28,25 +28,33 @@ const Data = [
         id: 4,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2023 - 2023",
-        title: "Business Systems Analyst: Ontario Health Digital Services",
-        desc: "In my role as a Business Systems Analyst, I effectively implemented Scrum methodologies to improve project flow and team collaboration. My leadership in Scrum meetings contributed to an 18% increase in sprint velocity. I also created an insightful dashboard on Microsoft Azure DevOps, enhancing task tracking and client satisfaction through improved reporting.",
+        year: "November 2024 - Present",
+        title: "Software Engineer: Flowmatic",
+        desc: "Built and deployed an ETL pipeline using Airflow, PostgreSQL, and AWS EC2, improving data processing of over 10,000 customer records. Integrated FastAPI with automated TypeScript type generation, accelerating API development and debugging capabilities. Enhanced backend and frontend synchronization, streamlining data accessibility and system performance.",
     },
     {
         id: 5,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2019 - 2021",
-        title: "Project Coordinator: Visor Guys",
-        desc: "At Visor Guys, I quickly moved to a leadership-intensive role, Project Coordinator. I worked towards ensuring the smooth and succesful execution of projects. I coordinated project timelines, tasks, and resources. Additionally, I automated the pricing process through the development of an Excel cost calculator which increased profit margins by 20% since it reduced calculation errors when ordering raw materials. ",
+        year: "Summer 2024",
+        title: "Software Engineering Intern: Zynga Games Inc.",
+        desc: "Developed and deployed a React, Python, and Airflow-based feature enabling game analysts to segment users and visualize metrics, used in games suchc as Harry Potter and Words With Friends 2. Migrated internal data services, helping in the reduction of costs by $250K annually. Automated Terraform infrastructure and data pipelines using Jenkins and Kubernetes, improving system efficiency.",
     },
     {
         id: 6,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2022 - 2022",
-        title: "Junior VP: Ivey Analytics Club",
-        desc: "As junior vice-president of the Ivey Analytics club, I work with section and club executives to plan and coordinate events such as Excel, machine learning, and python workshops. I express my passion of data analytics through my dedication  and club initiatives.",
+        year: "November 2023 - March 2024",
+        title: "Software Developer: Repwave",
+        desc: "Developed and optimized a Flask/Python backend while leading React front-end development for a B2B SaaS product. Integrated APIs to process monthly conversational data, improving efficiency. Collaborated with the design of UI/UX workflows in Figma, enhancing usability and functionality. Collaborated with a Salesforce Senior SWE, refining technical architecture and performance.",
+    },
+    {
+        id: 7,
+        category: "experience",
+        icon: "icon-briefcase",
+        year: "Summer 2023",
+        title: "Business Systems Analyst Intern: Ontario Health Digital Services",
+        desc: "As a Business Systems Analyst, I implemented Scrum methodologies, increasing sprint velocity by 18% through effective backlog management and team coordination. Led Scrum meetings to streamline project execution. Developed a Microsoft Azure DevOps dashboard with burndown and Gantt charts, enhancing task tracking and client reporting. This experience strengthened my skills in agile project management, data visualization, and stakeholder communication.",
     },
 ];
 

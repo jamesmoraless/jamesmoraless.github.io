@@ -1,8 +1,8 @@
 .image_grid {
     display: flex;
     justify-content: center;
-    column-gap: 3rem;
-    margin-bottom: 4rem;
+    column-gap: 4rem;
+    margin-bottom: 3rem;
 }
 
 .image_grid_two {

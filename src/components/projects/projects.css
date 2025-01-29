@@ -16,7 +16,7 @@
 
 .game_dev_projects {
     height: 315px;
-    width: 350px;
+    width: 400px;
     object-fit: fill;
     box-shadow: var(--shadow);
     border-radius: 20px;
@@ -48,11 +48,11 @@
 .description_title{
     color: aliceblue;
     margin-left: 20px;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 .skills {
     color: aliceblue;
-    margin-top: 0.5rem;
+    margin-top: -0.2rem;
     padding: 12px;
 }
 

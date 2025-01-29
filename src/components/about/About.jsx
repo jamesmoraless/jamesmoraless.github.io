@@ -1,6 +1,6 @@
 import React from 'react';   
 import "./about.css";
-import Image from "../../assets/me_playing_fball.png";//Must change avatar-2 C:\Users\james\jamesmoraless.github.io\src\assets\me_playing_fball.png
+import Image from "../../assets/me_playing_fball.png";
 import AboutBox from "./AboutBox";
 import CV from "../../assets/James_Morales_Resume.pdf"
 
@@ -17,11 +17,10 @@ const About = () => {
                 <div className="about_data grid">
                     <div className="about_info">
                         <p className="about_description"> 
-                        Hi all! I am a fourth-year Software Engineering and Ivey Business student at the University of Western Ontario. 
-                        I am passionate about software development and have fun learning about different technologies.
-                        I had a great time building this website with <b>React, JavaScript, HTML, and CSS. </b>  
-                        I am also comfortable with finance, accounting and management fundamentals thanks to my business background at Ivey.
-                        I strive to become a well-rounded software engineer and hope that you enjoy my website!
+                            I’m James, a full-stack software engineering student pursuing Bachelor degree's in Software Engineering and Business Administration from Western University & Ivey Business School. <br></br>With hands-on experience at companies like <b>Zynga</b>, <b>Ontario Health</b>, and <b>Flowmatic</b>, I specialize in building scalable, high-performance web applications using React, Node.js, Python, Typescript and cloud technologies like AWS & GCP.
+                            From architecting data pipelines and optimizing backend APIs to developing intuitive frontends, I take a product-driven approach to engineering, ensuring seamless user experiences and efficient system design. <br></br>My recent work includes deploying real-time analytics tools, automating CI/CD pipelines, and leading full-stack development for B2B SaaS solutions.
+                            <br></br>Whether it's integrating complex systems or crafting elegant UIs, I aim to bridge business needs with technical innovation.<br></br>
+                            Let’s connect! 🚀
                         </p>
                         <a href={CV} download="James_Morales_CV" className="btn">Download My CV</a>
                     </div>
@@ -40,7 +39,7 @@ const About = () => {
 
                         <div className="skills_data">
                             <div className="skills_title">
-                                <h3 className="skills_name">Web Dev</h3>
+                                <h3 className="skills_name">Full Stack Dev</h3>
                                 <span className="skills_number">90%</span>
                             </div>
                             <div className="skills_bar">
@@ -56,6 +55,16 @@ const About = () => {
                             <div className="skills_bar">
                                 <span className="skills_percentage photography"></span>
                             </div>
+                        </div>
+                        <div>
+                            <h3>Current Working Project</h3>
+                            I’m currently building a personal finance dashboard, combining my passion for business and software engineering to alleviate financial pain points through automation and data insights. 
+                            I aim to integrate AI-powered analytics to provide intelligent budgeting, spending insights, and financial forecasting, helping users make smarter financial decisions. 
+                            This project allows me to apply my full-stack expertise while diving deeper into AI-driven automation and data intelligence.
+                        </div>
+                        <div>
+                            <h3>Personal Interests</h3>
+                            Outside of coding, I enjoy playing soccer, coaching, and exploring how AI can enhance business workflows.
                         </div>
                     </div>
                 </div>
