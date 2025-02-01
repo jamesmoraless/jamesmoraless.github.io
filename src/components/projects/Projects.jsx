@@ -33,10 +33,10 @@ const Projects = () => {
                 <div className='single_project'>
                 <img src={WebTwo} alt="" className="game_dev_projects" />
                 <div className="overlay">
-                    <a href="https://docs.google.com/presentation/d/1XEBKT1IGVl-_bEjHZZILGu7o_glADDRNU3-K-o7pAM8/edit?usp=sharing" target="_blank"> 
+                    <a href="https://www.youtube.com/watch?v=cd3fIOiDZpY" target="_blank"> 
                     <h3 className='description_title'>London Transit Delays - Capstone</h3>
                     <h4 className='skills'>
-                    Powered by the MERN stack. A real-time transit congestion analysis dashboard leveraging web scraping, public API's, data pipelines, machine learning and visualization to predict bus delays across London, Ontario. Collaborated with PhD students and currently used by Dr.Tang at Western University to enhance urban mobility research. (Private Repo) <br></br><i>Design Documents and Walkthrough</i>
+                    Powered by the MERN stack. A real-time transit congestion analysis dashboard leveraging web scraping, public API's, data pipelines, machine learning and visualization to predict bus delays across London, Ontario. Collaborated with PhD students and currently used by Dr.Tang at Western University to enhance urban mobility research. (Private Repo) <br></br><i>YouTube Walkthrough</i>
                     </h4>
                     </a>
                 </div>
