@@ -22,7 +22,7 @@ const About = () => {
                             <br></br>Whether it's integrating complex systems or crafting elegant UIs, I aim to bridge business needs with technical innovation.<br></br>
                             Let’s connect! 🚀
                         </p>
-                        <a href={CV} download="James_Morales_CV" className="btn">Download My CV</a>
+                        <a href={CV} download="James_Morales_Resume" className="btn">Download My Resume</a>
                     </div>
 
                     <div className="about_skills grid">
